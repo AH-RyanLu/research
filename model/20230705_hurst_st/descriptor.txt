@@ -1,0 +1,11 @@
+DateID: 20230704
+Author: mike
+FactorFamily: pv
+FactorSubgroup: volatility
+Nickname: max
+LongestDataRequired: 30
+RequiredData: c2c_ret, univ_spx500
+InSampleStartDate: 20100101
+InSampleEndDate: 20191231
+InSampleUniv: univ_spx500
+InSampleMarket: us
